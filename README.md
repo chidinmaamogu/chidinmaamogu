@@ -1,4 +1,4 @@
-## Hello, Nice to meet you! 😊
+## Hello, nice to meet you! 😊
 I am a Computing Science graduate from the University of Alberta with experience in app development via coursework and participating in hackathons.
 
 📫 You can reach me at *chid.amogu@gmail.com*
