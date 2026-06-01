@@ -4,11 +4,12 @@ I am a Computing Science graduate from the University of Alberta with experience
 
 ### Languages and Tools:
 #### Languages:
-- [![Python](https://githubusercontent.com)](https://python.org)
-- C
-- C++
-- SQLite
-- HTML & CSS
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/html-icon/" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/css-icon/" alt="sqlite" width="40" height="40"/> </a> 
 
 #### Other Tools:
 - Android Developer
