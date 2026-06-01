@@ -8,8 +8,8 @@ I am a Computing Science graduate from the University of Alberta with experience
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/html-icon/" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/css-icon/" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/html5-line-icon.png" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="sqlite" width="40" height="40"/> </a> 
 
 #### Other Tools:
 - Android Developer
