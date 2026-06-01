@@ -7,10 +7,6 @@ I am a Computing Science graduate from the University of Alberta with experience
 - [Pomegranate App](https://github.com/MarcusKim442/Pomegranate-NatHACKS2024.git): NATHACKS 2024 entry [devpost](https://devpost.com/software/pomapp?ref_content=user-portfolio&ref_feature=in_progress) 
 - [Dinari App](https://www.figma.com/proto/QHjUCNs4qon2wcUfvn40mo/Dinari-App?node-id=0-1&t=AoyoUuFAzUS726vH-1): Colourstack Build and Pitch Case Competition 2026 [Best Overall Winner](https://www.linkedin.com/posts/colorstack-uofa_colorstackuofa-buildandpitch-casecompetition-activity-7463385295397261312-S8eD)
 - [Rally Up App](https://github.com/CMPUT301W24T00/RallyUP.git)
-  
-### 🌱 I’m currently learning:
-<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?_=20180210215736" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 ### Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -28,6 +24,10 @@ I am a Computing Science graduate from the University of Alberta with experience
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+### 🌱 I’m currently learning:
+<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?_=20180210215736" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!--
 **chidinmaamogu/chidinmaamogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
