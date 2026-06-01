@@ -4,7 +4,7 @@ I am a Computing Science graduate from the University of Alberta with experience
 
 ### Languages and Tools:
 #### Languages:
-- Python
+- [![Python](https://githubusercontent.com)](https://python.org)
 - C
 - C++
 - SQLite
@@ -25,7 +25,7 @@ I am a Computing Science graduate from the University of Alberta with experience
 
 ## 🛠 Take a look at some of my projects:
 - [Pomegranate App](https://github.com/MarcusKim442/Pomegranate-NatHACKS2024.git): NATHACKS 2024 entry [devpost](https://devpost.com/software/pomapp?ref_content=user-portfolio&ref_feature=in_progress) 
-- [Dinari App](https://www.figma.com/proto/QHjUCNs4qon2wcUfvn40mo/Dinari-App?node-id=0-1&t=AoyoUuFAzUS726vH-1): [Colourstack Build and Pitch Case Competition 2026 Best Overall Winner](https://www.linkedin.com/posts/colorstack-uofa_colorstackuofa-buildandpitch-casecompetition-activity-7463385295397261312-S8eD)
+- [Dinari App](https://www.figma.com/proto/QHjUCNs4qon2wcUfvn40mo/Dinari-App?node-id=0-1&t=AoyoUuFAzUS726vH-1): Colourstack Build and Pitch Case Competition 2026 [Best Overall Winner](https://www.linkedin.com/posts/colorstack-uofa_colorstackuofa-buildandpitch-casecompetition-activity-7463385295397261312-S8eD)
 - [Rally Up App](https://github.com/CMPUT301W24T00/RallyUP.git)
 
 
